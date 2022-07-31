@@ -3,7 +3,7 @@
 * [Home](https://acontina.github.io/Research)
 * [Publications](https://acontina.github.io/Publications)
 * [Teaching](https://acontina.github.io/Teaching)
-* [Contact](https://acontina.github.io/Research)
+* [Contact](https://acontina.github.io/contact)
 
 ## [Google Scholar](https://scholar.google.com/citations?hl=en&user=OZU3m9AAAAAJ&view_op=list_works&sortby=pubdate)
 
