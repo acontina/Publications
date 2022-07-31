@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+#logo: /assets/img/logo.png
+logo: /images/indigo.JPG
+title: Publications
+show_downloads: true
